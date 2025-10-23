@@ -1,6 +1,7 @@
 # git branching strategy
 ## The main Gold 
-main is the stable branch if you have master you should update your git to the newset version
+main is the stable branch if you have master you should update your git to the newset version 
+i did updated
 ## THe standard worflow
 The `main` branch is always stable and deployable. All new work is done on **feature branches**.
 
@@ -38,7 +39,14 @@ The `main` branch is always stable and deployable. All new work is done on **fea
     git pull origin main # Get the merged code
     git branch -d feat/user-authentication # Delete the old branch
     ```
-    ## Branch Naming Conventions
+## Problem 
+the branch on github still not merged even locally it a Fast-forward 
+so you should
+```bash
+    git push origin main
+```
+
+## Branch Naming Conventions
 - `feat/`: A new feature
 - `fix/`: A bug fix
 - `docs/`: Documentation changes
