@@ -1,0 +1,1 @@
+Embenddings are useful numerical representation of data learned via model traning 
