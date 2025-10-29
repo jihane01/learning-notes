@@ -14,6 +14,6 @@ git add .
 git remote add origin main link
 git push -u origin main
 
+
 ## To explain later
-git fetch origin 
-git reset --hard origin/main
+git fetch origin ?
