@@ -36,4 +36,21 @@
 │  💡 7. INSIGHTS                                              │
 │      What did you find?                                      │
 │      What needs cleaning?                                    │
+
+☐ Load data
+☐ Check shape & columns
+☐ View sample rows
+☐ Check data types
+☐ Summary statistics
+☐ Missing values (count & visualize)
+☐ Duplicates
+☐ Numerical distributions (histograms)
+☐ Outliers (box plots)
+☐ Categorical frequencies (bar plots)
+☐ Correlations (heatmap)
+☐ Relationships (pairplot, scatter)
+☐ Group by analysis
+☐ Document insights
+☐ List cleaning steps
+☐ Note feature ideas
 │      What features look promising?       
